@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+.container {
+    background: #fff;
+    padding: 30px;
+    margin: 100px auto;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc;
+}
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
